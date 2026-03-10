@@ -1395,8 +1395,8 @@ var TopBarTracking = /*#__PURE__*/function (_BaseTracking) {
         if (page) {
           return page;
         }
-        if (href.includes('/run-urban-ignite/wp-admin/')) {
-          var pathParts = href.split('/run-urban-ignite/wp-admin/')[1];
+        if (href.includes('/wp-admin/')) {
+          var pathParts = href.split('/wp-admin/')[1];
           if (pathParts) {
             return pathParts.split('?')[0];
           }

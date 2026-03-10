@@ -2414,7 +2414,7 @@ function Drawer(drawerElem) {
                                                                     '<input type="hidden" value="admin.php?page=quads-settings&amp;tab=general&amp;reference=ampforwp" class="ampforwp-activation-url" id="active">'+
                                                                     'Thank you for upgrading the Ads by WPQuads'+
                                                                     '<div class="row"><div>'+
-                                                                     '<a href="http://localhost/wasweb/run-urban-ignite/wp-admin/edit.php?post_type=quads-settings">'+
+                                                                     '<a href="http://localhost/wasweb/wp-admin/edit.php?post_type=quads-settings">'+
                                                                         '<div class="ampforwp-recommendation-btn updated-message">'+
                                                                             '<p>Go to Ads by WPQuads settings</p>'+
                                                                         '</div>'+
