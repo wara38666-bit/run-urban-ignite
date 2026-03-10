@@ -1215,9 +1215,9 @@ Layout css
   font-family: 'icomoon';
   font-display: swap;
   src:
-    url('/run-urban-ignite/wp-content/plugins/accelerated-mobile-pages/templates/design-manager/swift/fonts/icomoon.ttf?wtrpmf') format('truetype'),
-    url('/run-urban-ignite/wp-content/plugins/accelerated-mobile-pages/templates/design-manager/swift/fonts/icomoon.woff?wtrpmf') format('woff'),
-    url('/run-urban-ignite/wp-content/plugins/accelerated-mobile-pages/templates/design-manager/swift/fonts/icomoon.svg?wtrpmf#icomoon') format('svg');
+    url('/run-urban-ignite/run-urban-ignite/wp-content/plugins/accelerated-mobile-pages/templates/design-manager/swift/fonts/icomoon.ttf?wtrpmf') format('truetype'),
+    url('/run-urban-ignite/run-urban-ignite/wp-content/plugins/accelerated-mobile-pages/templates/design-manager/swift/fonts/icomoon.woff?wtrpmf') format('woff'),
+    url('/run-urban-ignite/run-urban-ignite/wp-content/plugins/accelerated-mobile-pages/templates/design-manager/swift/fonts/icomoon.svg?wtrpmf#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }

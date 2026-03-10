@@ -68,7 +68,7 @@ const SiteExport = ({ allPlans, allCategories }) => {
 		const fetchRemoteDemos = async () => {
 			try {
 				const response = await fetch(
-					'https://creativethemes.com/blocksy/wp-json/ct/v1/starter-sites',
+					'https://creativethemes.com/blocksy/run-urban-ignite/wp-json/ct/v1/starter-sites',
 					{
 						method: 'GET',
 					}

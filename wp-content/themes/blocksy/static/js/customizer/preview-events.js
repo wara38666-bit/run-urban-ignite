@@ -27,7 +27,7 @@ if (wp.customize) {
 
 		// wp.customize.preview.send('ct-trigger-autosave')
 		wp.customize.previewer.bind('ct-trigger-autosave', () => {
-			// https://github.com/WordPress/WordPress/blob/38fdd7bb3afcd59d51bc7bafcaa3d78820e3593b/wp-admin/js/customize-controls.js#L9336
+			// https://github.com/WordPress/WordPress/blob/38fdd7bb3afcd59d51bc7bafcaa3d78820e3593b/run-urban-ignite/wp-admin/js/customize-controls.js#L9336
 			//
 			// Trigger customizer autosave
 			wp.customize
